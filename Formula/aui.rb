@@ -5,6 +5,7 @@ class Aui < Formula
   license "SEE LICENSE IN LICENSE"
 
   depends_on "node"
+  depends_on "git"
 
   def install
     system "npm", "install", *std_npm_args
