@@ -1,8 +1,8 @@
 class Aui < Formula
   desc "CLI for building, managing, and deploying AUI AI agent configurations"
   homepage "https://github.com/aui-io/aui-cli"
-  url "https://registry.npmjs.org/aui-agent-builder/-/aui-agent-builder-0.4.61.tgz"
-  sha256 "f8fceddc30fa3e5e6393c7c440be991acca1cc762ed9529b1ba6bff2e2eb1652"
+  url "https://registry.npmjs.org/aui-agent-builder/-/aui-agent-builder-0.4.63.tgz"
+  sha256 "c12f189199796e954241ae094ea09befc37b11e9cb7b47aaa3b872c0668d217c"
   license "SEE LICENSE IN LICENSE"
 
   depends_on "node"
